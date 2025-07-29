@@ -15,41 +15,21 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visezion&layout=compact&theme=react)
 
 
-## 📡 Network & Infrastructure Focus
-
-- ⚙️ VLANs, Routing, Switching, NAT, ACLs  
-- 📦 Cisco, MikroTik, and Linux-based network devices  
-- 🧩 Infrastructure as Code (IaC): NetBox, Ansible, Terraform  
-- 🌐 DNS, DHCP, VPNs, Firewalls (pfSense, UFW, iptables)  
-- 🧠 Network anomaly detection using AI/ML  
-- 📈 Monitoring: Zabbix, Prometheus, Grafana  
-- ☁️ Cloud: AWS EC2/S3, Docker, VPS, Firewalls  
-
----
 
 ## 🛠 Skills & Tools
-
-### 🧠 Programming & Scripting
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-
-### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
-
-### 🧰 DevOps, Cloud & Infra
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![NetBox](https://img.shields.io/badge/-NetBox-blue?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAVFBMVEUAAAC/v7+fn5+/v7+wsLCnp6e6urrOzs7Y2Nj39/fExMTIyMje3t7Z2dnd3d3c3NzS0tLR0dGxsbHq6uq+vr7g4ODU1NTV1dV6enr5VfE3AAAACXBIWXMAAAsSAAALEgHS3X78AAAAsUlEQVQYlX2QQRaDMBBFz+eIQX5AT+b/f6KaGVICRA7evXUV0zHuc+zMnEIS8YZQclX2kK61u5w5wXzFCGBaC/UnhVDQCM7YpeNsDxdRtKzGkDF4Fzxh13aFP6OJeS0eWD1tzD4DaZBf0jDFeJYEUUNIV3UFG96HylbKzRRYobpeUb3AMRUUkSiQ9fOqDBYzYdM07iAfDcfMSjvGzkgAAAABJRU5ErkJggg==)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform)
 ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco)
-
----
-
 
 ---
 
