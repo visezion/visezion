@@ -18,16 +18,11 @@
 
 ---
 
-## 📈 GitHub Metrics
-
-![GitHub Metrics](https://raw.githubusercontent.com/bastianleicht/bastianleicht/refs/heads/master/github-metrics.svg)
-
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=visezion&theme=monokai&margin-w=5&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=visezion&theme=monokai&margin-w=5&no-frame=true)
 
----
 
 
 ![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=visezion&show_icons=true&theme=react&count_private=true)
