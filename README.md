@@ -10,7 +10,10 @@
 - 🌐 **Top 10 Global Contributor** to the **NetBox Device Type Library**
 - 🧰 Expert in full-stack **Networking, DevOps**, and **Cyber Infrastructure Engineering**
 
----
+
+![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=visezion&show_icons=true&theme=react&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visezion&layout=compact&theme=react)
+
 
 ## 🚀 Featured Projects
 
@@ -21,7 +24,6 @@
 - `NetBox Enhancer` – Tools and data contributions for NetBox IAC automation  
 - `Multi-Gateway SMS Engine` – Pluggable WhatsApp/SMS system using Zender
 
----
 
 ## 📡 Network & Infrastructure Focus
 
@@ -60,19 +62,14 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=visezion&show_icons=true&theme=react&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visezion&layout=compact&theme=react)
 
 ---
 
 ## 🌐 Connect with Me
 
-[🌐 Website](https://your-website.com) •  
-[🔗 LinkedIn](https://www.linkedin.com/in/YOUR-LINK) •  
-[🐦 Twitter](https://twitter.com/YOURHANDLE) •  
-[📫 Email](mailto:your@email.com)
+[🌐 Website]([https://your-website.com](https://vicezion.com/victor_oluwasusi)) •  
+[🔗 LinkedIn]([https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/victor-ayodeji-oluwasusi-059567157/)) •  
+[📫 Email](mailto:victor.oluwaususi@vicezion.com)
 
 ---
 
