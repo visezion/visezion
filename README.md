@@ -7,13 +7,10 @@
 - 📚 Published author on Explainable AI, Psychometric Risk, and IDS systems  
 - 🏆 Top 10 Global Contributor to NetBox Device Type Library  
 - 🛡️ Creator of SENTRY-AI (99.99% Accuracy on UNSW-NB15 Dataset)
-
-## 🧠 Current Projects
 - 🔭 Sentry-AI (Open-source multimodal NIDS with VAE & CNN)
 - 🧪 CPRE – Cyber-Psychometric Risk Engine
 - 🔐 NB-IDS – Neuro-Behavioral Intrusion Detection System
 
-## 📊 My GitHub Stats
 
 ![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=visezion&show_icons=true&theme=react&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visezion&layout=compact&theme=react)
