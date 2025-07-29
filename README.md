@@ -18,18 +18,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Metrics
 
-> 🖥️ **Code Activity (7 Days)**  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=visezion&theme=github-compact&hide_border=true)
+![GitHub Metrics](https://raw.githubusercontent.com/bastianleicht/bastianleicht/refs/heads/master/github-metrics.svg)
 
-> 💬 **Languages Used (Past Week)**  
-![Top Langs Weekly](https://github-readme-stats.vercel.app/api/top-langs/?username=visezion&layout=compact&langs_count=6&hide_border=true&theme=github_dark)
-
-> 🧠 **Languages Used (All Time)**  
-![Top Langs All Time](https://github-readme-stats.vercel.app/api/top-langs/?username=visezion&layout=compact&langs_count=10&hide_border=true&theme=github_dark)
-
----
 
 ## 🏆 GitHub Trophies
 
