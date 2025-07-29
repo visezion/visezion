@@ -15,16 +15,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visezion&layout=compact&theme=react)
 
 
-## 🚀 Featured Projects
-
-- `SENTRY-AI` – Open-source AI-driven anomaly detection for networks  
-- `CPRE` – Behavioral risk prediction engine with explainable models  
-- `NB-IDS` – First-of-its-kind biometric-based intrusion detection  
-- `Churchly SaaS` – Modular Laravel-based platform for organization management  
-- `NetBox Enhancer` – Tools and data contributions for NetBox IAC automation  
-- `Multi-Gateway SMS Engine` – Pluggable WhatsApp/SMS system using Zender
-
-
 ## 📡 Network & Infrastructure Focus
 
 - ⚙️ VLANs, Routing, Switching, NAT, ACLs  
