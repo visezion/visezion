@@ -38,7 +38,7 @@
 
 -  [🌐 Website](https://vicezion.com/victor_oluwasusi)
 -  [🔗 LinkedIn](https://www.linkedin.com/in/victor-ayodeji-oluwasusi-059567157/)
--  [📫 Email](mailto:victor.oluwaususi@vicezion.com) •  
+-  [📫 Email](mailto:victor.oluwaususi@vicezion.com) 
 
 ---
 
