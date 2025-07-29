@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Victor Ayodeji Oluwasusi
 
 🔒 Cybersecurity Engineer | 🧠 AI & Behavioral Systems Innovator | 🌐 Network Infrastructure Expert  
-🎓 Founder @ VICEZION Technologies Ltd | 🇳🇬 Based in Nigeria
+🎓 Founder @ Vicezion Technologies Ltd
 
 - 🔭 Currently building AI-powered cybersecurity systems with network-awareness
 - 🧪 Creator of **SENTRY-AI** (99.99% accuracy on UNSW-NB15)
@@ -9,6 +9,7 @@
 - 🔐 Founder of **NB-IDS** – Neuro-Behavioral Intrusion Detection System
 - 🌐 **Top 10 Global Contributor** to the **NetBox Device Type Library**
 - 🧰 Expert in full-stack **Networking, DevOps**, and **Cyber Infrastructure Engineering**
+
 
 
 ![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=visezion&show_icons=true&theme=react&count_private=true)
@@ -31,13 +32,13 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform)
 ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco)
 
----
+
 
 ## 🌐 Connect with Me
 
-[🌐 Website](https://vicezion.com/victor_oluwasusi) •  
-[🔗 LinkedIn](https://www.linkedin.com/in/victor-ayodeji-oluwasusi-059567157/) •  
-[📫 Email](mailto:victor.oluwaususi@vicezion.com) •  
+-  [🌐 Website](https://vicezion.com/victor_oluwasusi)
+-  [🔗 LinkedIn](https://www.linkedin.com/in/victor-ayodeji-oluwasusi-059567157/)
+-  [📫 Email](mailto:victor.oluwaususi@vicezion.com) •  
 
 ---
 
