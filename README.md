@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Victor Ayodeji Oluwasusi
 
 🔒 Cybersecurity Engineer | 🧠 AI & Behavioral Systems Innovator | 🌐 Network Infrastructure Expert  
-🎓 Founder @ VICEZION Technologies Ltd | 🇳🇬 Based in Nigeria | 🥇 EB1A Petition Candidate
+🎓 Founder @ VICEZION Technologies Ltd | 🇳🇬 Based in Nigeria
 
 - 🔭 Currently building AI-powered cybersecurity systems with network-awareness
 - 🧪 Creator of **SENTRY-AI** (99.99% accuracy on UNSW-NB15)
