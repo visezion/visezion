@@ -11,6 +11,32 @@
 - 🧰 Expert in full-stack **Networking, DevOps**, and **Cyber Infrastructure Engineering**
 
 
+## ⚡ Recent GitHub Activity
+
+- 💪 Opened [PR #3275](https://github.com/netbox-community/devicetype-library/pull/3275) in `netbox-community/devicetype-library`
+- 💪 Opened [PR #3229](https://github.com/netbox-community/devicetype-library/pull/3229) in `netbox-community/devicetype-library`
+
+---
+
+## 📊 GitHub Stats
+
+> 🖥️ **Code Activity (7 Days)**  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=visezion&theme=github-compact&hide_border=true)
+
+> 💬 **Languages Used (Past Week)**  
+![Top Langs Weekly](https://github-readme-stats.vercel.app/api/top-langs/?username=visezion&layout=compact&langs_count=6&hide_border=true&theme=github_dark)
+
+> 🧠 **Languages Used (All Time)**  
+![Top Langs All Time](https://github-readme-stats.vercel.app/api/top-langs/?username=visezion&layout=compact&langs_count=10&hide_border=true&theme=github_dark)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=visezion&theme=monokai&margin-w=5&no-frame=true)
+
+---
+
 
 ![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=visezion&show_icons=true&theme=react&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visezion&layout=compact&theme=react)
